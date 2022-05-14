@@ -14,7 +14,7 @@ Live Demo for the web app : https://application-react-weather.netlify.app/
 <head>
 <style>
 table, th, td {
-  border: 0px  #000000;
+  border: 10px  #000000;
   border-collapse: collapse;
 }
 </style>
