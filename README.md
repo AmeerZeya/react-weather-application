@@ -12,8 +12,8 @@ Live Demo for the web app : https://application-react-weather.netlify.app/
 
 Example
 - Bangalore 
--
-![image](https://user-images.githubusercontent.com/82048817/168414930-1c05aae4-89f8-40b0-8717-573cfd41ac3b.png)
+
+![image](https://user-images.githubusercontent.com/82048817/168414930-1c05aae4-89f8-40b0-8717-573cfd41ac3b.png | 100x100)
 
 -Regina
 
