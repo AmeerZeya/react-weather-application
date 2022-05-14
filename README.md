@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://openweathermap.org/api
 
-# In the project user can enter location to get the live weather details
-
 Live Demo for the web app : https://application-react-weather.netlify.app/
+
+# In the project user can enter location to get the live weather details
 
 <html>
 <head>
