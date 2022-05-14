@@ -14,14 +14,13 @@ Live Demo for the web app : https://application-react-weather.netlify.app/
 <head>
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 0px solid black;
   border-collapse: collapse;
 }
 </style>
 </head>
 <body>
 
-<h1>Table with Collapsed Borders</h1>
 
 <table>
   <tr>
