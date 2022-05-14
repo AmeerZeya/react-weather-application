@@ -8,6 +8,8 @@ https://openweathermap.org/api
 
 # In the project directory, you can enter location to get the live weather details
 
+Live Demo for the web app : https://application-react-weather.netlify.app/
+
 Example
 - Bangalore 
 -
