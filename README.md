@@ -28,8 +28,8 @@ table, th, td {
     <th>Regina</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/82048817/168414930-1c05aae4-89f8-40b0-8717-573cfd41ac3b.png" width="100"></td>
-    <td>$<img src="https://user-images.githubusercontent.com/82048817/168414942-2a25b4aa-2553-482f-addc-159c16853322.png" width="100"></td>
+    <td><img src="https://user-images.githubusercontent.com/82048817/168414930-1c05aae4-89f8-40b0-8717-573cfd41ac3b.png" width="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/82048817/168414942-2a25b4aa-2553-482f-addc-159c16853322.png" width="500"></td>
   </tr>
   <tr>
     <td>February</td>
