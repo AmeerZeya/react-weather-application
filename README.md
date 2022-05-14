@@ -12,12 +12,7 @@ Live Demo for the web app : https://application-react-weather.netlify.app/
 
 <html>
 <head>
-<style>
-table, th, td {
-  border: 0px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 </head>
 <body>
 
